@@ -1,0 +1,45 @@
+body{ /* para poner un color de fondo de la pantalla*/
+    background-color: #c6d5dd;
+    color: #070707;
+    /*tipo de fuente*/
+    /*font-family: verdana, Geneva, Tahoma, sans-serf;*/
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Ysabeau', sans-serif;
+font-weight: bold;
+}       
+h3{/*color de la fuente*/
+    color: #131818;
+    /*ripo de fuente*/
+    font-size:28px;
+    
+}
+h1, p{
+    color: #0f0f0f;
+    font-weight: bold;
+}
+img {
+    /*tamaño de la fuente*/
+/*width: 600px;
+/*largo de la foto*/
+/*height: 400px;
+/*margen doble*/
+border-style: double;
+border-color: #d166d1;
+margin-left: 40px;
+margin-bottom: 40px;
+padding: 30px;
+}
+.img1 {
+    width: 500px;
+    height: 300px;
+
+}
+.img2 {
+    width: 500px;
+    height: 300px;
+    
+}
+a, small{
+    color:#070707;
+}
+
